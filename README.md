@@ -5,13 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-<img src="https://ingenium-ahmedabad-university.github.io/hackathon/images/animated-svg/faq%20animated.svg" alt="github logo" width="55" height="55">
+<img src="https://ingenium-ahmedabad-university.github.io/hackathon/images/animated-svg/faq%20animated.svg" alt="github logo" width="550" height="550">
 
 
 - 🔭 I’m currently working on AI projects
 - 🌱 I’m currently learning Microsoft Azure
 - 👯 I’m looking to collaborate with other content writers
-- 🤔 
 - 💬 Ask me about your skeptical questions on technologies
 - 📫 How to reach me: keerthanam1029@gmail.com
 - 😄 Pronouns: she/her
