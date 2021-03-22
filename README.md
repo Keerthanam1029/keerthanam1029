@@ -6,7 +6,7 @@ loves to exploring new fields and empowering others
 
 Here are some ideas to get you started:
 -->
-<img src="https://ingenium-ahmedabad-university.github.io/hackathon/images/animated-svg/faq%20animated.svg" alt="github logo" width="550" height="450">
+<img align="right" src="https://ingenium-ahmedabad-university.github.io/hackathon/images/animated-svg/faq%20animated.svg" alt="github logo" width="550" height="450">
 
 
 - 🔭 I’m currently working on AI projects
