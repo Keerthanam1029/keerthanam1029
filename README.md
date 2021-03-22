@@ -1,4 +1,4 @@
-### Hi there 👋, I am 𝒦𝑒𝑒𝓇𝓉𝒽𝒶𝓃𝒶 𝑀𝒶𝒽𝒶𝓁𝒾𝓃𝑔𝒶𝓂, An Open source Contributor, Technology Enthusiast, Wanderlust, Melophile!!!
+### Hi there 👋, I am ꗪ𝑒𝑒𝗋𝑡ℎ𝑎𝘯𝑎 ℳ𝑎ℎ𝑎𐌠𝑖𝘯𝑔𝑎m, An Open source Contributor, Technology Enthusiast, Wanderlust, Melophile!!!
 
 <!--
 **Keerthanam1029/keerthanam1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
